@@ -1,0 +1,68 @@
+.categories{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.045em;
+    color: #550D0E;
+}
+.categories-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.categories-2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.categories-1>div{
+    margin: 0px 20px;
+    display: flex;
+    align-items: center;
+}
+.categories-2>div{
+    margin-left: 20px;
+}
+.categories-3{
+    background: #F9F4DB;
+    padding: 5px;
+}
+.categories-2-language>select{
+    border: none;
+    font-size: 30px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.045em;
+    color: #550D0E;
+}
+.categories-2-money>select{
+    border: none;
+    font-size: 30px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.045em;
+    color: #550D0E;
+}
+.categories-1-select>select{
+    border: none;
+    font-size: 30px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.045em;
+    color: #550D0E;
+}

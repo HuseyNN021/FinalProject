@@ -1,0 +1,56 @@
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #F9F4DB;
+}
+.search_button{
+    width: 117px;
+    height: 40px;    
+    background: #E7D6AC;
+    border-radius: 20px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: -0.045em;
+    color: #550D0E;
+    margin-left: 50px;
+}
+.advenced_button{
+    box-sizing: border-box;
+    width: 225px;
+    height: 40px;
+    border: 1px solid #E7D6AC;
+    border-radius: 20px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: -0.045em;
+    color: #550D0E;
+    margin-right: 32px;
+    margin-left: 50px;
+}
+.search_book>input{
+    box-sizing: border-box;
+    width: 603px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid #DFD7CC;
+    
+}
+h1{
+    width: 180px;
+    height: 50px;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: right;
+    letter-spacing: -0.045em;
+    color: #550D0E;
+}

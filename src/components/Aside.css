@@ -1,0 +1,39 @@
+img{
+    width: 165px;
+    height: 162px;
+}
+aside{
+    background: #F9F4DB;
+    width: 266px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2{
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: -0.045em;
+    color: #550D0E;
+}
+li{
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.045em;
+    color: #A13842;
+    margin: 10px 0px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 25px;
+}
